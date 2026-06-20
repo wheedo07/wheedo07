@@ -1,47 +1,64 @@
-<!-- Profile Header -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&color=999999&center=true&vCenter=true&repeat=true&random=false&width=520&lines=Hello%2C+I'm+a+beginner+developer;Back-end+%26+Game+tools;System+creation+oriented+developer"
-      alt="Typing SVG"
-    />
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=150&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=wheedo07&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=wheedo07.wheedo07&"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">About Me</h3>
+
+###
+
+```
+Name      : wheedo07
+Location  : South Korea
+Role      : Backend & Game Developer
+Focus     : Godot, Modding, Open Source
+OS        : Linux
+```
+Currently working on:
+- UT/DR-Godot-Engine
+- GodotDelta, GodotMods
+- Self-hosted Infrastructure
+
+###
+
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+</div>
+
+<div data-importer="stats" align="left">
+  <img src="https://raw.githubusercontent.com/wheedo07/wheedo07/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">🌐 Links</h3>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://discord.com/users/1162606325516222524" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-</p>
-
-## Tech Stack
-
-### 사용 언어
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 데이터베이스
-<p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL" />
-</p>
-
-### 주요 라이브러리·프레임워크
-<p>
-    <img src="https://img.shields.io/badge/htmx-3366CC?style=flat-square&logo=htmx&logoColor=white" alt="htmx" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=Godot%20Engine&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" />
-</p>
-
-### 개발 환경
-<p>
-    <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white" alt="Vim" />
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" alt="Ubuntu" />
-</p>
-
-<hr>
-
-## 연락처
-<p>
-  <a href="mailto:wheedo07@ourgram.co.kr">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:wheedo07@ourgram.co.kr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://discord.com/users/1162606325516222524">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://x.com/wheedo07_dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-</p>
+</div>
