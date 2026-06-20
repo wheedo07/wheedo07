@@ -41,10 +41,6 @@ Currently working on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/wheedo07/wheedo07/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <h3 data-importer="text" align="left">🌐 Links</h3>
