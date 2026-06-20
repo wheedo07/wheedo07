@@ -2,7 +2,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=wheedo07;Backend+Developer;Game+Developer;Open+Source+Maintainer;Linux+Enjoyer" />
 </div>
 <div data-importer="profile-views" align="center">
-    <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=wheedo07.wheedo07&"  />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=wheedo07.wheedo07" />
+    <img src="https://img.shields.io/github/followers/wheedo07?style=flat&logo=github&label=Followers" />
+    <img src="https://img.shields.io/badge/Linux-Enjoyer-FCC624?logo=linux&logoColor=black" />
 </div>
 
 ###
