@@ -38,23 +38,8 @@ While many of my public repositories are game-related, my primary focus is desig
 
 ---
 
-# 🏢 Organizations
-
-## ❤️ Undertale Labs
-
-Open-source engines, frameworks and developer tools for the Undertale & Deltarune community.
-
-### Projects
-
-#### [DTManager](https://github.com/Undertale-Labs/DTManager)
-
-Desktop launcher and mod manager for Undertale & Deltarune.
-
----
-
 ## 🛠️ WD07 Labs
-
-Developer tools, libraries and reusable open-source software.
+- Developer tools, libraries and reusable open-source software. [link](https://github.com/WD07Labs)
 
 ### Projects
 
@@ -67,6 +52,19 @@ Delta patch library for Godot projects.
 #### [GodotMods](https://github.com/WD07Labs/GodotMods)
 
 Toolkit for creating and managing mods in Godot.
+
+---
+
+# 🏢 Organizations
+
+## ❤️ Undertale Labs
+- Open-source engines, frameworks and developer tools for the Undertale & Deltarune community. [link](https://github.com/Undertale-Labs)
+
+### Projects
+
+#### [DTManager](https://github.com/Undertale-Labs/DTManager)
+
+Desktop launcher and mod manager for Undertale & Deltarune.
 
 ---
 
