@@ -49,7 +49,7 @@ Developer tools, libraries and reusable open-source software. [link](https://git
 
 Delta patch library for Godot projects.
 
-### [GodotMods](https://github.com/WD07-Dev/GodotMods)
+### [KubeBlocks](https://github.com/WD07-Dev/KubeBlocks)
 
 Toolkit for creating and managing mods in Godot.
 
