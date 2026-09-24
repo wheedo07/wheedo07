@@ -51,7 +51,7 @@ Delta patch library for Godot projects.
 
 ### [KubeBlocks](https://github.com/WD07-Dev/KubeBlocks)
 
-Toolkit for creating and managing mods in Godot.
+Visual programming for KubeJS.
 
 </details>
 
