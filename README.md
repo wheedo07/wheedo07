@@ -108,3 +108,15 @@ Desktop launcher and mod manager for Undertale & Deltarune.
         <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>
 </div>
+
+---
+
+# ☕ Support
+
+If you like my projects and want to support my work, you can support me via PayPal.
+
+<div align="left">
+    <a href="https://paypal.me/wheedo07">
+        <img src="https://img.shields.io/badge/PayPal-Support%20Me-003087?style=for-the-badge&logo=paypal&logoColor=white" />
+    </a>
+</div>
