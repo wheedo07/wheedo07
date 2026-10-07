@@ -113,13 +113,13 @@ Desktop launcher and mod manager for Undertale & Deltarune.
 
 # ☕ Support
 
-If you like my projects and want to support my work, you can support me via PayPal.
+If you like my projects and want to support my work, you can support me via PayPal or Buy Me a Coffee.
 
 <div align="left">
     <a href="https://paypal.me/wheedo07">
         <img src="https://img.shields.io/badge/PayPal-Support%20Me-003087?style=for-the-badge&logo=paypal&logoColor=white" />
     </a>
-    <a href="https://www.paypal.com/ncp/payment/QP8CZNF7EFAKA">
-        <img src="https://img.shields.io/badge/PayPal-%EB%B0%94%EB%A1%9C%20%ED%9B%84%EC%9B%90-FFD140?style=for-the-badge&logo=paypal&logoColor=black" alt="PayPal 바로 후원" />
+    <a href="https://buymeacoffee.com/wheedo07">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
     </a>
 </div>
